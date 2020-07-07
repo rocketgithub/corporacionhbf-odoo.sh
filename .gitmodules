@@ -1,0 +1,15 @@
+[submodule "bolson"]
+	path = bolson
+	url = git@github.com:rocketgithub/bolson.git
+	branch = 11.0
+[submodule "conciliacion_bancaria"]
+	path = conciliacion_bancaria
+	url = git@github.com:rocketgithub/conciliacion_bancaria.git
+	branch = 11.0
+[submodule "gface_g4s"]
+	path = gface_g4s
+	url = git@github.com:rocketgithub/gface_g4s.git
+[submodule "l10n_gt_extra"]
+	path = l10n_gt_extra
+	url = git@github.com:rocketgithub/l10n_gt_extra.git
+	branch = 11.0
