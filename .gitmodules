@@ -13,3 +13,9 @@
 	path = l10n_gt_extra
 	url = git@github.com:rocketgithub/l10n_gt_extra.git
 	branch = 11.0
+[submodule "fel_gt"]
+	path = fel_gt
+	url = git@github.com:rocketgithub/fel_gt.git
+[submodule "fel_g4s"]
+	path = fel_g4s
+	url = git@github.com:rocketgithub/fel_g4s.git
