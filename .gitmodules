@@ -22,3 +22,10 @@
 [submodule "hr_expense_invoice"]
 	path = hr_expense_invoice
 	url = git@github.com:rocketgithub/hr_expense_invoice.git
+[submodule "l10n_sv"]
+	path = l10n_sv
+	url = git@github.com:rocketgithub/l10n_sv.git
+	branch = 13.0
+[submodule "l10n_sv_extra"]
+	path = l10n_sv_extra
+	url = git@github.com:rocketgithub/l10n_sv_extra.git
